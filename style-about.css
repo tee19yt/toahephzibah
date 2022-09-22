@@ -1,0 +1,38 @@
+body{
+    width: auto;
+    background-color: white;
+}
+
+.address{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    width: 50%;
+    margin: auto;
+    background-color: lavender;
+    padding: 25px;
+    border: 2px solid lavender;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+a{
+    padding: 13px;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+    color: blue;
+    border: solid 3px blue;
+}
+
+a:hover{
+    font-size: 14px;
+    color: blue;
+}
+
+.copy {
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+    margin-top: 19%;
+    float: left;
+  }

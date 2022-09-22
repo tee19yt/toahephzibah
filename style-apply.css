@@ -1,0 +1,45 @@
+body{
+    width: auto;
+    background-color: blue;
+}
+
+.info-page{
+    margin: auto;
+    width: 50%;
+    background-color: white;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sign{
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+.table{
+    padding: 10px;
+}
+
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    color: white;
+    border: 5px blue solid;
+    background-color: blue;
+    border-radius: 15px;
+}
+
+.sub{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: blue;
+    border: 5px blue solid;
+    border-radius: 20px;
+}
+
+.atext{
+    margin: auto;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
+}
